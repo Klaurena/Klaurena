@@ -8,10 +8,6 @@
 - WordPress & CMS Development  
 - UI/UX Design 
 
-📫 Connect
-- [LinkedIn](#)  
-- [Portfolio](#)  
-- [Email](mailto:your@email.com)
   
 ## Projects - showcase
 
